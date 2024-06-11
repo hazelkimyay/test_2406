@@ -27,6 +27,15 @@ Public Repo, 한글..
 
 <img src = "https://th.bing.com/th/id/OIP.ByFBM2P-gnLPLHL6H2QqUwAAAA?rs=1&pid=ImgDetMain" width = "200" height = "200" >
 
+ * 제목
+     * 소제목1
+         * 소제목
+     * 소제목2
+      
+  * 제목
+     * 소제목
+         * 소제목
+
 ### 링크 걸기, 내 레포에 PDF 연결
 [2주차일정](./240610_2406142weeks.pdf)
 
