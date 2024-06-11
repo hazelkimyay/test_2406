@@ -23,3 +23,6 @@ Public Repo, 한글..
 ### 이미지 삽입 
 ![강아지](https://health.chosun.com/site/data/img_dir/2024/02/20/2024022002560_0.jpg)
 
+### 이미지 삽입 - 크기도 조정 
+
+<img src = "https://health.chosun.com/site/data/img_dir/2024/02/20/2024022002560_0.jpg" width = "400" height = "400" >
