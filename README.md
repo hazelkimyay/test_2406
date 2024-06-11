@@ -26,3 +26,10 @@ Public Repo, 한글..
 ### 이미지 삽입 - 크기도 조정 
 
 <img src = "https://th.bing.com/th/id/OIP.ByFBM2P-gnLPLHL6H2QqUwAAAA?rs=1&pid=ImgDetMain" width = "200" height = "200" >
+
+### 링크 걸기, 내 레포에 PDF 연결
+[2주차일정](./240610_240614_2주차.pdf)
+
+### 링크 걸기, 내 레포에 py 파일 연결
+[py](./test1.py)
+
