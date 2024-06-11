@@ -31,5 +31,5 @@ Public Repo, 한글..
 [2주차일정](./240610_2406142weeks.pdf)
 
 ### 링크 걸기, 내 레포에 py 파일 연결
-[py](./test1.py)
+[py](./test.py)
 
